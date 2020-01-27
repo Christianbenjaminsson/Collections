@@ -20,11 +20,6 @@ public class Theatre {
         }
     }
 
-    //Remove later on
-    public void setSeats(List<Seat> seats) {
-        this.seats = seats;
-    }
-
     public String getTheatreName() {
         return theatreName;
     }
